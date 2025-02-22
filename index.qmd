@@ -1,6 +1,8 @@
----
-title: "CTBrowser Website"
----
+# CTBrowser
+## Introduction
 CTBrowser is an iPhone app for browsing CDISC Terminology. It downloads terminology files from NCI EVS, allowing you to search codelists and view details of codelists and terms. Since the terminology files are stored on your iPhone, you can use all features except downloading files even when offline.<br>
 <br>
-<img src="images/Screenshot_02.png" width="25%">    <img src="images/Screenshot_04.png" width="25%">
+<img src="images/Screenshot_02.png" width="25%">    <img src="images/Screenshot_04.png" width="25%"><br>
+
+## Support
+please contact us via email at ippei.apps.info@gmail.com

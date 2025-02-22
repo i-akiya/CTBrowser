@@ -9,7 +9,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "CTBrowser Website",
+    "title": "CTBrowser",
+    "section": "",
+    "text": "CTBrowser is an iPhone app for browsing CDISC Terminology. It downloads terminology files from NCI EVS, allowing you to search codelists and view details of codelists and terms. Since the terminology files are stored on your iPhone, you can use all features except downloading files even when offline.   \n\n\n\nplease contact us via email at ippei.apps.info@gmail.com"
+  },
+  {
+    "objectID": "index.html#support",
+    "href": "index.html#support",
+    "title": "CTBrowser",
+    "section": "",
+    "text": "please contact us via email at ippei.apps.info@gmail.com"
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "CTBrowser",
     "section": "",
     "text": "CTBrowser is an iPhone app for browsing CDISC Terminology. It downloads terminology files from NCI EVS, allowing you to search codelists and view details of codelists and terms. Since the terminology files are stored on your iPhone, you can use all features except downloading files even when offline."
   }
